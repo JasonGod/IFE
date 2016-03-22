@@ -1,0 +1,151 @@
+body{
+		font-family: "微软雅黑";
+		font-size: small,serif;
+		background-color:#CCFFCC;
+		margin: 0px;
+		padding: 0px; 
+}
+.author,h3,prompt{
+		color: #808080;
+}
+
+#banner{
+	background-color:#0099CC;
+	margin: 0px;
+	padding: 0px;
+	height:60px;
+	position:relative;
+}
+#banner #logo{
+	margin-left: 0px;
+	position: absolute;
+	top: -10px;
+	left:0px;
+	height: 90px;
+	width: 190px;
+}
+#banner ul{
+	margin: 0px;
+	margin-right: 80px;
+	list-style-type: disc;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+#banner li{
+	float: left;
+	margin: 20px;
+}
+a.ba
+{
+	color: white;
+}
+a.ba1
+{
+	color: gray;
+}
+#banner ul  li  a{
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#main article{
+	background-color: white;
+	width: 93%;
+	margin:20px auto;
+	padding: 20px;
+
+}
+
+.list{
+	list-style-type: none;
+}
+section{
+	margin-left: 0px;
+	margin-right: 450px;
+}
+
+#main dl{
+	
+}
+
+#main dd{
+	text-align: center;
+	border: thin solid;
+	float: left;
+	height: 120px;
+	width: 100px;
+	margin: 10px;
+	padding: 10px 10px 5px 10px;
+}
+
+#main dd img{	
+	width: 100px;
+	height: 60px;	
+}
+
+.pic-bottom{
+	clear: both;
+}
+
+#sidebar{
+	background-color: white;
+	width: 400px;
+	margin: 20px;
+	padding: 20px;
+	float: right;
+}
+
+#tableone{
+	border: thin solid black;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+#tableone th,td{
+	border: thin solid gray;
+	padding: 3px;
+}
+
+#tableone th{
+	background-color: #000000;
+	color: white;
+}
+
+.trfoot{
+	background-color: #d3d3d3;
+}
+
+
+
+#sidebar h2{
+	border-left: 3px solid #BBBBBB;
+	padding: 10px;
+}
+
+#signin{
+	margin: 0px auto;
+}
+#signin td{
+	border-color: transparent;	
+}
+
+#confirm{
+	width: 100%;
+	height: 50px;
+	background-color: #1E90FF;
+	border-radius: 50px;
+	font-size: 150%;
+	color: white;
+}
+
+footer{
+	background-color: #0099CC;
+	color: white;
+	text-align: center;
+	margin: 0px;
+	font-size: 80%;
+	height: 60px;
+	padding: 10px;
+	clear: both;
+}
